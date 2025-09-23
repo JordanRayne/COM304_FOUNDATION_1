@@ -4,7 +4,7 @@
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
 | Student Name | Jordan Mallory|
-| Student Number | |
+| Student Number |Q103066473 |
 | Student Email | 0mallj73@solent.ac.uk|
 | Github Account Username | JordanRayne|
 | Github Submission Repository URL |https://github.com/JordanRayne/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md |

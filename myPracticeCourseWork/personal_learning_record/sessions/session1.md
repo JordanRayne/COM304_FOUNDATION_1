@@ -3,12 +3,19 @@
 # Session 1
 
 ## Topics covered
-*What topics were covered in this session*
+Setting up github and early history of computing
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+In this sesion I learned About
+Mechanical Computers
+-Charles Babbage also known as "The father of Computers" becuase he created the first mechanical computers
+-Ada Lovelace was best known for writing the first algorithm for a machine
+Analogue Computers
+-Gaudi used the "upside down method" to create the Sagrada Família and Colònia Güell Church because the gravity naturally formed the right curves
+Digital Computers
+-
 
 
 

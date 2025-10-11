@@ -15,8 +15,11 @@ Mechanical Computers
 Analogue Computers
 -Gaudi used the "upside down method" to create the Sagrada Família and Colònia Güell Church because the gravity naturally formed the right curves
 Digital Computers
--
-
+- I learned that "digital computers" arent just devices but really smart individuals like George Boole JR Alan Turing that made great invasion
+Elctronic Computers
+- A computer/s called the Colossus was made to decipher messages during world war two and was later destroyed
+- Eniac was the first of its kind and able to "solve a large class of numerical problems" source wikipedia
+  
 
 
 ## Exercises and results

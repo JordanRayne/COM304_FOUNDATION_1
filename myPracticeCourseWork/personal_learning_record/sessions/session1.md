@@ -19,6 +19,11 @@ Digital Computers
 Elctronic Computers
 - A computer/s called the Colossus was made to decipher messages during world war two and was later destroyed
 - Eniac was the first of its kind and able to "solve a large class of numerical problems" source wikipedia
+  Setting up git Hub
+ - In this session I also set up git hub and went the following steps to set it up firstly forking with Mr. Gallens own account where I am able to easly find information for the course.
+Creating a project plan
+- I also created my first project, just something simple so that I can Keep track of what I have to do,finish, and whats completed.
+  Getting started with Raseberry pie 
   
 
 

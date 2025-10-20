@@ -23,7 +23,9 @@ Elctronic Computers
  - In this session I also set up git hub and went the following steps to set it up firstly forking with Mr. Gallens own account where I am able to easly find information for the course.
 Creating a project plan
 - I also created my first project, just something simple so that I can Keep track of what I have to do,finish, and whats completed.
-  Getting started with Raseberry pie 
+
+   Getting started with Raseberry pie
+  - In this session I used resberry pie for the first time. I had to first dowload the app on my lap top to then attach a usb and use that usb to add data to the resberry pie it was interestiong to see that it was a mini computer becuase untill that momment I still wasnt to sure what it was. 
   
 
 

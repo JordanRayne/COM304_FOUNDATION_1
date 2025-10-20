@@ -3,15 +3,16 @@
 # Session 6
 
 ## Topics covered
-*What topics were covered in this session*
+Intorduction to Operating systems 
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+Operating system or OS manages components of the computer like, CPu, Memory and, file systems. An operationg system can be Windows, masOS, and linux.
 
 
 
+https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/2
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

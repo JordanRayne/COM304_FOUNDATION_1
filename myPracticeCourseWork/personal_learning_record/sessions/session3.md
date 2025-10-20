@@ -3,12 +3,12 @@
 # Session 3
 
 ## Topics covered
-*What topics were covered in this session*
+Raspberry PI/ GPIO
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+General purpose Input/output or GPIO can be programed to used as an Input or Output
 
 
 

@@ -3,12 +3,12 @@
 # Session 5
 
 ## Topics covered
-*What topics were covered in this session*
+Computer languages
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+today I learned about the CPUlator its registers what they mean and about Peripherals. Then i gave it a try and followed the Instructions 
 
 
 

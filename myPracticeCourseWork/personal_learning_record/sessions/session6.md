@@ -8,11 +8,15 @@ Intorduction to Operating systems
 
 
 ## Personal Notes and research following this session
-Operating system or OS manages components of the computer like, CPu, Memory and, file systems. An operationg system can be Windows, masOS, and linux.
+Operating system or OS manages components of the computer like, CPu, Memory and, file systems. An operating system can be Windows, masOS, and linux. All devices need at least one operating system becuase OS controlls most of device so this allows user to do things like browse and access the internet and other everyday things.
+History of Operating systems (OS)
+OS was created because everthing had to be done manually which was very time comsuming and difficult for the user to complete even simple task. Eventually in the 1950 the first OS named batch was created it wasnt perfect but it got the job done. Batch was able to be given a command from the user then sent  intructions to the CPU to be followed. Then in the 1960s-70s Multiprograming was created not users could do more then one thing at a time which at the time was game changing, the 1970s is also the start of personal computers, 1980s was the start of Graphical user interface (GUI) this allowed users to more effectivly find where they wanted to go faster becuase now there was icons. 1990s Networked systems and 2000s Mobile opperating systems. And then finnaly in 2010- present Artificial intergration everyday it can do something new and every year it gets even better.
 
 
 
 https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/2
+https://www.ibm.com/think/topics/operating-systems 
+https://www.geeksforgeeks.org/operating-systems/evolution-of-operating-system/
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

@@ -8,7 +8,11 @@ Computer languages
 
 
 ## Personal Notes and research following this session
-today I learned about the CPUlator its registers what they mean and about Peripherals. Then i gave it a try and followed the Instructions 
+today I learned about the CPUlator its registers what they mean and about Peripherals. Then I gave it a try and followed the Instructions 
+
+Programing languages allows the user to better understand what they are reading.
+
+
 
 
 

@@ -1,9 +1,9 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
 # Council Proposal 1
-
+A Proposal to replace all the office PC's with a hot desk solution.
 ## Explanation of this proposal
-*What do you think this proposal might mean? How might it be implemented?*
+The purpose of the Propasal is to use up sapce when its not frequently being used, this can help cut cost on rooms, desks, teck that are not being beong put to good use a on daily basis. whether it be Employees that sometimes work from home or spaces that arent being used becuase there arent enough people to use it so hot desk is a good idea.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*

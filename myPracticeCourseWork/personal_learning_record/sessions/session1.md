@@ -27,7 +27,7 @@ Creating a project plan
    Getting started with Raseberry pie
   - In this session I used resberry pie for the first time. I had to first dowload the app on my lap top to then attach a usb and use that usb to add data to the resberry pie it was interestiong to see that it was a mini computer becuase untill that momment I still wasnt to sure what it was. 
   
-
+[Turing, A.M., 2004. The essential turing. Oxford University Press.](https://books.google.com/books?hl=en&lr=&id=dSUTDAAAQBAJ&oi=fnd&pg=PR7&dq=alan+turing&ots=IfF2NLtGaX&sig=P4ixPfsOwRhReqdAULGZk-CkcBk)
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*

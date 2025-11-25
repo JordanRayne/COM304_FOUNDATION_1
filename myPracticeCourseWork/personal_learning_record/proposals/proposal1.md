@@ -21,14 +21,14 @@ The purpose of the Propasal is to use up sapce when its not frequently being use
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>better use of office space</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>potential security risk with unknown neighbours.</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 

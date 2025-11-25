@@ -14,9 +14,13 @@ OS was created because everthing had to be done manually which was very time com
 
 
 
-https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/2
+[Systems software - OCR
+Operating systems and user interfaces accessed Nov 2025](https://www.bbc.co.uk/bitesize/guides/zmqw7p3/revision/2)
+
 https://www.ibm.com/think/topics/operating-systems 
+
 https://www.geeksforgeeks.org/operating-systems/evolution-of-operating-system/
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 

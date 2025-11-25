@@ -41,14 +41,14 @@ The purpose of the Propasal is to use up sapce when its not frequently being use
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>save council money with shift workers.</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>p[otential security threat</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 

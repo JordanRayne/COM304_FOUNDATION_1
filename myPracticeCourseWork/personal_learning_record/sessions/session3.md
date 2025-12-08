@@ -8,8 +8,7 @@ Raspberry PI/ GPIO
 
 
 ## Personal Notes and research following this session
-General purpose Input/output or GPIO can be programed to used as an Input or Output
-
+Machine code
 
 
 ## Exercises and results

@@ -8,7 +8,7 @@ Computing Architecture
 
 
 ## Personal Notes and research following this session
-Computer architecture
+A turing machine is not a physical object it is used show what computers could do. It is made with infinte tape and a head that can read and write symbols. Even though it does not seem like much it can solve calculations just like a real computer just not as fast. There is also another turing machine called a universal turing machine, it basiclly can simulate any other turing machine. Another computing Architecture 
 
 
 

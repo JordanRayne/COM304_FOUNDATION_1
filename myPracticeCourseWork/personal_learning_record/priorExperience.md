@@ -5,7 +5,8 @@
 ---
 **NOTE**
 
-* Describe your past experience of computing. 
+* Describe your past experience of computing.
+  In my first year of middle school I got my first iphone it was a samsung. I was able to take the back side off but all I could really see was the battery. Then I Upgraded, not the newest phone but it got the job done. One day 
 * What do you know and what would you like to learn from this module?
 
 ---
@@ -13,4 +14,4 @@
 
 TBD
 
-IN HIGHSCHOOL I DID INFO AND COM TECK FOR TWO YEARS AND DID BASIC STUFF ON WORD AND EXEL I ALSO CREATED A BASIC WEBSITE PROFILE I USED HTMl, /, H1, ect. I learned about read only memory (ROM) and random access memory (RAM).
+

@@ -110,7 +110,8 @@ Will there be enough desks during peak times
 ## Evaluation of the proposal
 Hot desking can offer many benefits like saving money, reduce unused space, and give staff more flexibilit. It can also help by allowing people to meet new people which can help with team work. Although their are also some problems like security risks, and no personal workspace but the proposal can be successfull if the coucil upgrades its teck, and creates clear rules.
 
-
+Tech, Tramshed. “Are People Who Hot Desk More Productive?” Blog | Tramshed Tech. Web.
 https://www.tramshedtech.co.uk/news/are-people-who-hot-desk-more-productive/
 
+Fussell, Jim. “Hot Desking: The Ultimate Guide.” Essential. N.p., 27 Nov. 2024. Web.
 https://www.essential.co.uk/blog/articles/hot-desking/

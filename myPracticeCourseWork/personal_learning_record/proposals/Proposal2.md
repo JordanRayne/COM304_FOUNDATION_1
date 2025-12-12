@@ -126,11 +126,11 @@ The could makes it easier for staff to work from home and other locations
 ## Evaluation of the proposal
 Moving files to the cloud is not a bad idea it can save time, amke wor easier and reduc costs in the long run. But the council must also plan very carefully and make sure the data is safe
 
-
+“| Focus Systems.” Focus Systems| TECH With HEART. N.p., 29 Mar. 2024. Web.
 https://en.focus-s.com/note/0070#:~:text=Benefits%20of%20moving%20your%20server,summary
 
 
-https://www.nutanix.com/info/cloud-computing/cloud-migration?utm_source=google_adwords&utm_medium=paid_search&utm_campaign=Nutanix_Search_EMEA_T1_Generic-Awareness_Google_Awareness_English_&utm_term=cloud%20application%20migration%20services&utm_experience=&cq_plac=&cq_net=g&cq_plt=gp&cq_cmp=22876943738&_bt=786882305449&_bk=cloud%20application%20migration%20services&_bm=p&_bn=g&_bg=189545005093&gad_source=1&gad_campaignid=22876943738&gbraid=0AAAAADN2VjbkDqk2bAhvQ-QC3DNphG_Fa&gclid=CjwKCAiAl-_JBhBjEiwAn3rN7bx_U2UTpSJzYzcQYtDmwr2NFFRn9vjk_siNOi969HI_cwkxNVvOUBoCZdAQAvD_BwE
+“What Is Cloud Migration? Types, Benefits & Challenges.” Nutanix. N.p., 5 Nov. 2025. Web.
 
 https://movebot.io/blog/why-you-should-move-your-file-server-to-the-cloud
 

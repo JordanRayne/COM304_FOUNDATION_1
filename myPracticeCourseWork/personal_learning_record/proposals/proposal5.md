@@ -3,10 +3,10 @@
 # Council Proposal 5
 
 ## Explanation of this proposal
-*What do you think this proposal might mean? How might it be implemented?*
+the coucil wants to use open source software instead of normal software when buying new programs. This means using software anyone can see, change and share. This can be done by checking which opensource programs meet the councils needs
 
 ## Technologies and research relevant to this proposal
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+Open source software can save money, improve security and be customized.It can also build trust becuease it it open.
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -21,16 +21,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> saves money</li>
+        <li> It is secure</li>
+        <li> It builds trust</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>staff will need training</li>
+        <li> some programs will lack support</li>
+        <li>anyone can access it</li>
       </ol> 
     </td>
   </tr>
@@ -41,16 +41,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> saves money long term</li></li>
+        <li>encourages more digital skills inside the council</li>
+        <li>can share tools with other councils</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> staff may not like the change</li>
+        <li> open source projects may stop being updated</li>
+        <li>compatibility issues with current systems</li>
       </ol> 
     </td>
   </tr>
@@ -67,16 +67,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>supports goverment goals for openness and transparency</li>
+        <li> reduces dependence on big software companies</li>
+        <li> can fit public sector rules</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>saves money</li>
+        <li> lowers long term costs for upgrades</li>
+        <li>money can be used for other council services</li>
       </ol> 
     </td>
   </tr>
@@ -87,26 +87,36 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>staff need time to learn the new systems</li>
+        <li>builds public trust </li>
+        <li> encourages digital skills /li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li> open source can be customized</li>
+        <li>more secure</li>
+        <li> easy to update</li>
       </ol> 
     </td>
   </tr>
 </table> 
 
 ## Questions to ask about the proposal
-*Without knowing how exactly the council will implement this proposal, what questions should be raised?*
+*
 
 * question 1
+
+  which open source software will be used
 * question 2
 
+How will staff be trained
 ## Evaluation of the proposal
-*Povide a breif evaluation based on what you know*
+The proposal couls save money and improve IT flexibility. It needs lots of training and planing but still not a bad idea
+
+
+https://www.exoplatform.com/blog/9-reasons-governments-favor-open-source-software/
+
+https://www.1xinternet.com/en/highlights/why-choose-open-source-over-proprietary-software-enterprise-projects#:~:text=We%20often%20get%20asked%20what,can%20be%20improved%20by%20anyone.
+
+https://xwiki.com/en/Blog/open-source-software-in-public-administration/#:~:text=By%20investing%20in%20open%2Dsource,Building%20trust%20through%20openness

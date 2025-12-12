@@ -114,9 +114,11 @@ How will staff be trained
 ## Evaluation of the proposal
 The proposal couls save money and improve IT flexibility. It needs lots of training and planing but still not a bad idea
 
-
+Lamarque, Patrice. “9 Reasons Governments Favor Open Source Software | eXO Platform.” eXo Platform. N.p., 18 Sept. 2024. Web.
 https://www.exoplatform.com/blog/9-reasons-governments-favor-open-source-software/
 
+“Why Choose Open Source over Proprietary Software for Enterprise Projects | 1xINTERNET.” 1xINTERNET. N.p., n.d. Web.
 https://www.1xinternet.com/en/highlights/why-choose-open-source-over-proprietary-software-enterprise-projects#:~:text=We%20often%20get%20asked%20what,can%20be%20improved%20by%20anyone.
 
+Balan, Lorina. “Why It’s More Important than Ever to Adopt Open-Source Software in Public Administration.” XWiki. N.p., n.d. Web.
 https://xwiki.com/en/Blog/open-source-software-in-public-administration/#:~:text=By%20investing%20in%20open%2Dsource,Building%20trust%20through%20openness

@@ -22,9 +22,8 @@ https://www.ibm.com/think/topics/operating-systems
 https://www.geeksforgeeks.org/operating-systems/evolution-of-operating-system/
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
-
+for this lesson I did an Assembler exercise first i a had to complie simple7seg1.s to show 1 on the led display. then i had to learn which bits control each segment and make a table for hex number )-f. then change the program to display 12345678. Next i had to wirte a program to cycle through all hex number and use a break point to slow it down
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+In this lession i first had to llok at the structure of a modern operating system and how it manages hared ware and software. Next i continued useing Assembler and C code. I used the CPUlator simulator includint the excercises controlling the seven segment displys to see how code can directly maniplutate hardware.

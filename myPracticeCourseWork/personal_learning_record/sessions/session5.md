@@ -34,9 +34,23 @@ https://www.geeksforgeeks.org/computer-organization-architecture/subroutine-subr
 
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+in this lesson I used the c programing, I Followed steps that did things like typed out the world hello world and other things like making a picture
+
+
+
+![IMG_3072](https://github.com/user-attachments/assets/0a2ab610-30c5-476f-8413-3d210638b5e7)
+
+
+
+
+![IMG_3073](https://github.com/user-attachments/assets/825193ed-dd37-4b8d-aced-9cd20fbdc65e)
+
+
+![IMG_3074](https://github.com/user-attachments/assets/4fd99a33-20cd-4052-b6da-b6ebe1c715e8)
+
+
 
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+This session i looked at different computer programing languages and how they with hardware. For example machine code is made if binary instructions that the computer uses but it is hard to write, Another one is assembly code this is a human readable version of machine code. I also learned about High level languages like C, python,java.Programs use something called linkers and loaders to connectwith libraries and load into memory

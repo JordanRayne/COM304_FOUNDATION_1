@@ -1,6 +1,6 @@
 [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
-# Council Proposal 3
+# Council Proposal 2
 
 ## Explanation of this proposal
 The proposal is about moving the counciles files and servers to the cloud. So instead of storing data on physical computers it can be stored online. Staff are then able to acces files from anywhere and there will already be backups. This could be one by picking a cloud provider like google or Microsoft moves the files then teach staff how to use the new system

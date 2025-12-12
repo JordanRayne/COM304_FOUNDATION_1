@@ -5,11 +5,13 @@
 ---
 **NOTE**
 
-* At the conclusion of the module, describe how you have progressed.
-* What have you learnt that is new.
-* What have you struggled with.
-* What personal research have you done.
-* What will you need to do next to consolidate your knowledge.
+In these sessions I learned various things about computers and how they follow instructions. I learned about turing machines, Von Neumann desing and haw a raspberry Pi works to run programs
+
+I also learned about different programing language. Like machine code is hard to read but assembly and high level languages like python and Care easeir
+
+I learned that operating systems controll the CPU,memory and devices.By using linus I saw how the kernel,system libraries, and user tools work together. I also used the CPUlator simulator to control a display helped me understand how code can affect hardware.
+
+Something I strugled on was boolean I kinda have a understanding on how it works but there is still so much I have to work on to master it.
 
 ---
 

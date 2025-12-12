@@ -6,7 +6,7 @@
 The council wants to use small computers called raspberry Pi in libraries and museums to count how manny people are going in and out These Pis will ast as somthing call a IoT device. This means they will connect to the internetn and send what it has counted to a system so that staff are able to see how many people are coming in and out
 
 ## Technologies and research relevant to this proposal
-Raspberry Pi devices canbe used to count people using sensors. On.e study used raspberry Pis with Open CV(computer vision library to count people and they were leaving a space https://www.ijream.org/papers/IJREAMV02I01894.pdf?utm_source=chatgpt.com. Research shows IoT systems with raspberry Pi will be able to monitor how many people are in a room and be able to send live data
+Raspberry Pi devices canbe used to count people using sensors. On.e study used raspberry Pis with Open CV(computer vision library) to count people and they were leaving a space. (Badhan and Nikhita)Research shows IoT systems with raspberry Pi will be able to monitor how many people are in a room and be able to send live data
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
@@ -116,10 +116,11 @@ Raspberry Pi devices canbe used to count people using sensors. On.e study used r
 ## Evaluation of the proposal
 This idea can help libraries and museums how many people have visited. This helps makes better staffing plans and also saves money other than using big comercial systems. Research shows people counting with Raspberry Pi and IoT works but can also have accuracy and maintenance issues
 
+---. People Counting System Using Raspberry Pi with OpenCV. Vol. 02. N.p., 2016. Web.
 https://www.ijream.org/papers/IJREAMV02I01894.pdf
 
+Chandana, Y. et al. OBJECT SENSING AND COUNTING USING RASPBERRY PI PICO. Vol. 52–52. N.p., 2023. Web.
 http://www.journal-iiie-india.com/1_june_23/24_online.pdf
 
+---. OBJECT SENSING AND COUNTING USING RASPBERRY PI PICO. Vol. 52–52. N.p., 2023. Web.
 http://www.journal-iiie-india.com/1_june_23/24_online.pdf
-
-

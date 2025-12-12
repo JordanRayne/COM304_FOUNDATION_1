@@ -14,6 +14,7 @@
   I tried to try the reset method which surprisingly it did not work and I was mortafied becuase now ink was showing up everywhere and the bottom half stopped working safe to say it was a long sad day. Bye Bye Zflip 4 Hello referbersed phone off amozon. This tramatic expeirience tuaght me that tech works great when everything in the system does its part but no matter how big or small a problem if something becomes fualty or broken the whole system can fail. During my first two years of highschool I took info and com teck classes some things I learned RAM (random accessmemory) ROM ( Read Only Memory). I also made my first website where I had to learn to use symbols like html,head,title,body, h1 ect. 
   
 * What do you know and what would you like to learn from this module?
+* 
 I would like to know More about computers and their history and how to get better educated on how they work. It would be benificial to me to not only learn about basics of computing but learning about it on a deeper level. Not just what these topics are but why and how do they do what they do. I want to learn more about the connection each system has becuase in teck and computing everything has a purpose whether big or small it was made for a reason so meet a certain end goal. I basiclly want to expand on basic things that most people know and have a clear understanding on it all.
 ---
 

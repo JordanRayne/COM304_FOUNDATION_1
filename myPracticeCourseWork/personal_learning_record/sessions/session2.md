@@ -17,9 +17,8 @@ https://www.sciencedirect.com/topics/computer-science/von-neumann-architecture
 https://opensource.com/resources/raspberry-pi
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
-
+In this lession we did some exercises on binary and boolean examples we went over how to add, multiplie and  divide
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+Computer architecture is about how a computer is buit and also how the parts work together.

@@ -21,4 +21,4 @@ In this lession we did some exercises on binary and boolean examples we went ove
 
 
 ## Summary of learning
-Computer architecture is about how a computer is buit and also how the parts work together.
+Computer architecture is about how a computer is buit and also how the parts work together. Computers use only 1s and 0s this is called bianary.Boolean logic like AnD,OR,NOT helps the computer do calculations and run its programs. Logic gates are the small circuits that use binary and Boolean rules to make a computer work

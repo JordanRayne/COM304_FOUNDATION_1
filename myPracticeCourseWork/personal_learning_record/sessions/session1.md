@@ -19,9 +19,15 @@ https://www.webfx.com/blog/web-design/the-history-of-computers-in-a-nutshell/
 https://plato.stanford.edu/ENTRIES/computing-history
 
 ## Exercises and results
-*What exercises did you complete. What results. Screen shots and notes*
+For this class I learned about Git hub, I had to set up an account and fork my repository I did this by following the instructions given by Mr Craig and making a copy of his work. I learend that this is where all of my work and lessons would be. The lession also went over project management short summary projects can go wrong if not planned propperly so team use things like
+Watter fall- this is a step by step method made for fixed plans but is also hard to change.
+Agile- This is more flexible it allows more check ups with the customer 
+Kanban- This helps track tasks and resources more efficiently
 
+Then I learned how to set up a raspberry pi they are small devices used by schools to teach students about hardware and how ssytems work. We had to get into groups of Two and set up and downloade our pie.
 
 
 ## Summary of learning
-*What did you learn through these exercises*
+In session 1 I learned about the module and personal learning record. Iset up a Github account forked my repository, added my tutor as a collborator. I aslo began learning about Pi and istalled its operating system and connected to the university WiFi
+
+I learned about projest management and how it can fail if not done right and without the right planing tools like Gantt charts to help plan tasks and schedules. I learned about development methods like Waterfall, Agile, and Kanban

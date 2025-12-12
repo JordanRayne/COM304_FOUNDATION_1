@@ -20,12 +20,14 @@ Interrupts
 Interrupts uses a signal to tell a computer to basicly stop whatever it is and do somthing that is more impotant. An example is if someone pressed a key on an key board or was sent something from the internent that can trigger an interrupt. When that happens the computer leaves what it was doing for the time being and runs a code to work on the interrupt then after it completes that task it can go back. This basicly allows the computer to effectivly take on task when they show up instead of having to check every time
 
 
-https://www.sciencedirect.com/topics/engineering/machine-code
+https://www.sciencedirect.com/book/monograph/9780340700143/software-development-for-engineers
 
 https://www.sciencedirect.com/topics/computer-science/assembly-code
 
+“Ada Computer Science.” Ada Computer Science. N.p., n.d. Web.
 https://adacomputerscience.org/concepts/proglang_high_level
 
+GeeksforGeeks. “Subroutine: Nesting and Stack Memory.” GeeksforGeeks. N.p., 25 Oct. 2025. Web.
 https://www.geeksforgeeks.org/computer-organization-architecture/subroutine-subroutine-nesting-and-stack-memory/
 
 

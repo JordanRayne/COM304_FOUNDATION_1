@@ -14,8 +14,10 @@ An operating system (OS) is the main software that allows a computer to run prog
 
 The OS organizes the file system, which arranges data in directories and files. It enforces security through permissions. Each file has an owner and a group, and permissions determine who can read, write, or execute it. Users can interact with Linux using a command-line interface (CLI) or graphical interfaces like X Window (X11) or Wayland. Linux also supports many programming languages, and developers can add new software through package managers, which make it easier to install and remove programs. The OS also goes through a boot process, where the system loads essential programs and the kernel to start running.
 
+Wikipedia contributors. “History of Linux.” Wikipedia. N.p., 1 Dec. 2025. Web.
 https://en.wikipedia.org/wiki/History_of_Linux
 
+ “Operating Systems Structures.” GeeksforGeeks. N.p., 29 Nov. 2025. Web.
 https://www.geeksforgeeks.org/operating-systems/different-approaches-or-structures-of-operating-systems/
 
 

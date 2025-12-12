@@ -123,6 +123,6 @@ How will data and privacy be protected
 ## Evaluation of the proposal
 This proposal is a good idea because it makes services faster and more up-to-date. It can save money and make the council easier to use. However, the council must keep services simple and secure, ensuring that people who cannot use digital tools still receive assistance.
 
-https://www.netcall.com/digital-transformation-for-local-government-citizen-hub/?utm_source=google&utm_medium=paid&utm_campaign=CitizenHub&utm_term=council%20digital%20transformation&gad_source=1&gad_campaignid=21214556589&gbraid=0AAAAAD-75zk332LdxMCbGuebIE1h7GVkv&gclid=CjwKCAiAl-_JBhBjEiwAn3rN7XKIKeOSa6JuHdMyZU6S6F2-AfTaeOONUn31efqTc5I0jLnndracdRoCKWUQAvD_BwE
+Courtney, Anna. “Digital Transformation for Local Government | Citizen Hub.” Netcall. N.p., 17 Feb. 2025. Web.
 
 https://www.local.gov.uk/parliament/briefings-and-responses/digital-centre-government-parliamentary-review

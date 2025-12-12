@@ -19,6 +19,7 @@ Operating systems and user interfaces accessed Nov 2025](https://www.bbc.co.uk/b
 
 https://www.ibm.com/think/topics/operating-systems 
 
+GeeksforGeeks. “History of Operating System.” GeeksforGeeks. N.p., 23 July 2025. Web.
 https://www.geeksforgeeks.org/operating-systems/evolution-of-operating-system/
 
 ## Exercises and results

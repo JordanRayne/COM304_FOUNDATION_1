@@ -115,3 +115,11 @@ Raspberry Pi devices canbe used to count people using sensors. On.e study used r
 
 ## Evaluation of the proposal
 This idea can help libraries and museums how many people have visited. This helps makes better staffing plans and also saves money other than using big comercial systems. Research shows people counting with Raspberry Pi and IoT works but can also have accuracy and maintenance issues
+
+https://www.ijream.org/papers/IJREAMV02I01894.pdf
+
+http://www.journal-iiie-india.com/1_june_23/24_online.pdf
+
+http://www.journal-iiie-india.com/1_june_23/24_online.pdf
+
+
